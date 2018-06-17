@@ -1,0 +1,182 @@
+.header {
+  background-color: #7828B4;
+}
+
+.logotype {
+  font-family: Optima;
+  font-weight: 900;
+  font-size: 36px;
+  color: #FFFFFF;
+  margin: 10px 0px;
+  padding-left: 80px;
+}
+
+.searchinput {
+  display: inline;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 3px;
+  padding-right: 100px;
+}
+
+.srchplacehold {
+  opacity: .5;
+  font-family: Roboto;
+  font-style: italic;
+}
+
+.padding0 {
+  padding: 0;
+}
+
+.pagebackground {
+  background-color: #F2F2F2;
+}
+
+.filteritem {
+  background: #EBEBEB;
+  border-bottom: 1px solid #D7D7D7;
+  padding: 20px 40px;
+  margin-left: 40px;
+}
+
+.filteritem .tittle {
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 2.5;
+}
+
+.last {
+  border: 0px solid #D7D7D7;
+}
+
+.srchamount {
+  display: block;
+  font-family: Roboto;
+  font-size: 24px;
+  padding: 16px 0 8px 0;
+}
+
+.srchamount .amount {
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 24px;
+  color: #9013FE;
+  line-height: 28px;
+}
+
+.datecard {
+  padding-bottom: 1rem;
+}
+
+.datecard .col-form-label {
+  text-align: right;
+  /* margin-left: -15px; */
+}
+
+.datecardjustify {
+  padding: 0 15px 0 0;
+}
+
+.itemtag {
+  display: inline;
+  border: 1.2px solid #9013FE;
+  border-radius: 100px;
+  font-family: Roboto;
+  font-style: italic;
+  font-size: 16px;
+  color: #9013FE;
+  padding: 3px 14px;
+  margin-right: 8px;
+}
+
+.resultcard {
+  margin-top: 30px;
+  padding-right: 50px;
+  /* box-shadow: 2px 2px 0px #000; */
+}
+
+.cardpic1 {
+  height: 220px;
+  margin-right: -15px;
+  background-image: url(img/1.JPG);
+  background-size: cover;
+}
+
+.cardpic2 {
+  height: 220px;
+  margin-right: -15px;
+  background-image: url(img/2.JPG);
+  background-size: cover;
+}
+
+.cardpic3 {
+  height: 220px;
+  margin-right: -15px;
+  background-image: url(img/3.JPG);
+  background-size: cover;
+}
+
+.cardtext {
+  background-color: #fff;
+  height: 220px;
+  margin-left: -15px;
+  padding: 26px 30px 16px 16px;
+}
+
+.cardtext .tittle {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 24px;
+  color: #9013FE;
+  margin-bottom: 12px;
+}
+
+.cardtext .content {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.cardtext .maininfo {
+  margin-bottom: 10px;
+}
+
+.cardtext .author {
+  display: inline;
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 16px;
+  color: #000000;
+  margin-right: 12px;
+}
+
+.cardtext .tag {
+  display: inline;
+  background-color: #D7D7D7;
+  border-radius: 100px;
+  font-family: Roboto;
+  font-style: italic;
+  font-size: 16px;
+  color: #FFFFFF;
+  padding: 2px 12px;
+}
+
+.cardtext .info {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #9B9B9B;
+  display: inline;
+  margin-right: 12px;
+}
+
+.cardtext .icon {
+  color: #000;
+  margin-right: 6px;
+}
+
+.paginationright {
+  margin-top: 40px;
+  padding-right: 65px;
+}
